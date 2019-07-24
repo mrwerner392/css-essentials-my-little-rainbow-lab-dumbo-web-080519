@@ -11,23 +11,23 @@ div {
 }
 
 #red {
-  border-top-color:
-}
-
-#orange {
   border-top-color: #f00;
 }
 
-#yellow {
+#orange {
   border-top-color: #ffa500;
 }
 
-#green {
+#yellow {
   border-top-color: #ff0;
 }
 
-#blue {
+#green {
   border-top-color: #00bc3f;
+}
+
+#blue {
+  border-top-color: #06f;
 }
 
 #indigo {
